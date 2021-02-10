@@ -30,7 +30,7 @@
     "oembed-parser": "^1.4.5",
     "readabilitySAX": "^1.6.1",
     "sanitize-html": "^2.3.2",
-    "string-comparison": "^1.0.9"
+    "string-comparison": "github:lovelysnippets/js-string-comparision#fix/vercel-compatibility"
   },
   "devDependencies": {
     "eslint-config-goes": "^1.2.0",
